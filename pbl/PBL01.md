@@ -12,7 +12,7 @@ Cada pesquisador deve efetuar o cálculo de uma reação de transição como dad
 | $CO(ads) + OH(ads) \to \text{cis}-COOH(ads)$ | Igor        |
 | $\text{cis}-COOH(ads) \to COOH(ads)$         | Marvin      |
 | $COOH(ads) \to CO_2(ads)+ H(ads)$            | Suzane      |
-| $CO_2(ads)+ H(ads) \to HCOO(ads)$            | demais      |
+| $COOH(ads) + OH(ads) \to CO_2(ads)+ H_2O(ads)$            | demais      |
 
 
 Crie uma pasta no seu `github` com o título `PBL01` e coloque o arquivo `notebook_PBL01.ipynb` com todas as informações referentes aos cálculos efetuados para que qualquer outro pesquisador possa efetuar os mesmos cálculos que você. 
