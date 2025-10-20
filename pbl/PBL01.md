@@ -15,7 +15,7 @@ Cada pesquisador deve efetuar o cálculo de uma reação de transição como dad
 | $COOH(ads) + OH(ads) \to CO_2(ads)+ H_2O(ads)$            | demais      |
 
 
-Crie uma pasta no seu `github` com o título `PBL01` e coloque o arquivo `notebook_PBL01.ipynb` com todas as informações referentes aos cálculos efetuados para que qualquer outro pesquisador possa efetuar os mesmos cálculos que você. 
+Crie uma pasta no seu `github` com o título `COQ-878` e dentro desta, crie uma subpasta denomianda `PBL01`, e no interior dessa pasta deve estar contido um Jupyter Notebook denominado `notebook_PBL01.ipynb`. Esse notebook deve conter todas as informações referentes aos cálculos efetuados para que qualquer outro pesquisador possa efetuar os mesmos cálculos que você. 
 
 **DATA DE ENTREGA**: 03/11/2025
 
