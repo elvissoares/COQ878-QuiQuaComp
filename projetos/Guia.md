@@ -31,7 +31,7 @@ O relatório deve ter caráter científico, com estrutura próxima à de um arti
 - Resultados da validação do MACE:
     - Comparações quantitativas com VASP (ex.: erros de energia e força, correlações).
 - Visualização das trajetórias:
-    - Imagens ou vídeos representativos, quando pertinentes.
+    - Imagens representativas, quando pertinentes.
 - Discussão física e química:
     - Interações intermoleculares, rearranjos estruturais, ligações químicas e possíveis reações.
     - Limitações observadas do modelo e da abordagem.
@@ -46,5 +46,5 @@ O relatório deve ter caráter científico, com estrutura próxima à de um arti
 
 ### 2. Apresentação oral
 
-- **20 minutos**: exposição concisa do problema, metodologia, principais resultados e conclusões.
+- **20 minutos**: exposição concisa do problema, metodologia, principais resultados, vídeos representativos, e conclusões.
 - **5-10 minutos**: arguição, com foco em decisões metodológicas, validação e interpretação física.
